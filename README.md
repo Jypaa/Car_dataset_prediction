@@ -49,7 +49,7 @@ Mallintamisessa käytin 200 epochia, batch size oli 1000 jolloinka ja datasetin 
     mae: 1098.2878402909278
     rmse: 1666.252038240165
 
-Kaiken tämän jälkeen tallennan vielä mallit mahdollisia uusia käyttöjä varten.
+Kaiken tämän jälkeen tallennan vielä mallit mahdollisia uusia käyttöjä varten. Lopuksi vielä kuva minkälainen oli oppimiskäyrä
 
 ![image](https://user-images.githubusercontent.com/91068474/205452467-896d87b9-8e02-4682-ac08-9666e4d58402.png)
 
