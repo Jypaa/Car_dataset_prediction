@@ -51,6 +51,8 @@ Mallintamisessa käytin 200 epochia, batch size oli 1000 jolloinka ja datasetin 
 
 Kaiken tämän jälkeen tallennan vielä mallit mahdollisia uusia käyttöjä varten.
 
+![image](https://user-images.githubusercontent.com/91068474/205452467-896d87b9-8e02-4682-ac08-9666e4d58402.png)
+
 
 
 
